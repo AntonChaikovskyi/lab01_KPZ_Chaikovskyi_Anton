@@ -1,0 +1,14 @@
+C:\Users\chaik\source\repos\lab01_KPZ_Anton_Chaikovskyi\lab01_KPZ_Anton_Chaikovskyi\bin\Debug\net8.0\lab01_KPZ_Anton_Chaikovskyi.exe
+C:\Users\chaik\source\repos\lab01_KPZ_Anton_Chaikovskyi\lab01_KPZ_Anton_Chaikovskyi\bin\Debug\net8.0\lab01_KPZ_Anton_Chaikovskyi.deps.json
+C:\Users\chaik\source\repos\lab01_KPZ_Anton_Chaikovskyi\lab01_KPZ_Anton_Chaikovskyi\bin\Debug\net8.0\lab01_KPZ_Anton_Chaikovskyi.runtimeconfig.json
+C:\Users\chaik\source\repos\lab01_KPZ_Anton_Chaikovskyi\lab01_KPZ_Anton_Chaikovskyi\bin\Debug\net8.0\lab01_KPZ_Anton_Chaikovskyi.dll
+C:\Users\chaik\source\repos\lab01_KPZ_Anton_Chaikovskyi\lab01_KPZ_Anton_Chaikovskyi\bin\Debug\net8.0\lab01_KPZ_Anton_Chaikovskyi.pdb
+C:\Users\chaik\source\repos\lab01_KPZ_Anton_Chaikovskyi\lab01_KPZ_Anton_Chaikovskyi\obj\Debug\net8.0\lab01_KPZ_Anton_Chaikovskyi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaik\source\repos\lab01_KPZ_Anton_Chaikovskyi\lab01_KPZ_Anton_Chaikovskyi\obj\Debug\net8.0\lab01_KPZ_Anton_Chaikovskyi.AssemblyInfoInputs.cache
+C:\Users\chaik\source\repos\lab01_KPZ_Anton_Chaikovskyi\lab01_KPZ_Anton_Chaikovskyi\obj\Debug\net8.0\lab01_KPZ_Anton_Chaikovskyi.AssemblyInfo.cs
+C:\Users\chaik\source\repos\lab01_KPZ_Anton_Chaikovskyi\lab01_KPZ_Anton_Chaikovskyi\obj\Debug\net8.0\lab01_KPZ_Anton_Chaikovskyi.csproj.CoreCompileInputs.cache
+C:\Users\chaik\source\repos\lab01_KPZ_Anton_Chaikovskyi\lab01_KPZ_Anton_Chaikovskyi\obj\Debug\net8.0\lab01_KPZ_Anton_Chaikovskyi.dll
+C:\Users\chaik\source\repos\lab01_KPZ_Anton_Chaikovskyi\lab01_KPZ_Anton_Chaikovskyi\obj\Debug\net8.0\refint\lab01_KPZ_Anton_Chaikovskyi.dll
+C:\Users\chaik\source\repos\lab01_KPZ_Anton_Chaikovskyi\lab01_KPZ_Anton_Chaikovskyi\obj\Debug\net8.0\lab01_KPZ_Anton_Chaikovskyi.pdb
+C:\Users\chaik\source\repos\lab01_KPZ_Anton_Chaikovskyi\lab01_KPZ_Anton_Chaikovskyi\obj\Debug\net8.0\lab01_KPZ_Anton_Chaikovskyi.genruntimeconfig.cache
+C:\Users\chaik\source\repos\lab01_KPZ_Anton_Chaikovskyi\lab01_KPZ_Anton_Chaikovskyi\obj\Debug\net8.0\ref\lab01_KPZ_Anton_Chaikovskyi.dll
